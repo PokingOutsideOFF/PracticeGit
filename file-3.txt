@@ -1,1 +1,3 @@
 This includes all info about third file.
+I will be deleted.
+Please add me to the master/main branch.
